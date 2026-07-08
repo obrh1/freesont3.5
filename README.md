@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# freesont3.5
-These aren't just scripts; they are high-performance bridges to the world's best coding models (specifically Claude 3.5   Sonnet )
-=======
 # 🚀 Inkeep & Inkeep2: High-Performance LLM Bridges
 
 This repository provides a set of professional-grade tools designed to bridge local development environments with the world's most powerful coding models (specifically **Claude 3.5 Sonnet**) via a specialized proxy system.
@@ -30,19 +26,3 @@ Direct access to **Claude 3.5 Sonnet**. It employs a unique "multi-turn wrapper"
 ## 📖 Usage Guide
 
 Refer to the [INTEGRATION_GUIDE.md](./INTEGRATION_GUIDE.md) for a full technical breakdown of the proxy architecture and the "jailbreak" wrapper logic.
-
----
-
-## ❤️ Support the Project
-
-This project is maintained as an open-source contribution to the developer community. If these tools have helped you accelerate your coding workflow, please consider supporting the developer.
-
-**Wallet Address:** 
-`6h7QjzGoaKvUAGtqoqEV12WMwTzGsUm3KZ7t23ngG5WV`
-
-**Scan to Support:**
-
-![Wallet QR](./wallet_qr.jpeg)
-
-*Your support helps keep these tools updated and allows for further research into AI-driven development.*
->>>>>>> b68920b (Initial upload of Inkeep tools and documentation)
