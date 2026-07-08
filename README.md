@@ -26,3 +26,19 @@ Direct access to **Claude 3.5 Sonnet**. It employs a unique "multi-turn wrapper"
 ## 📖 Usage Guide
 
 Refer to the [INTEGRATION_GUIDE.md](./INTEGRATION_GUIDE.md) for a full technical breakdown of the proxy architecture and the "jailbreak" wrapper logic.
+
+---
+
+## ❤️ Support the Project
+
+This project is maintained as an open-source contribution to the developer community. If these tools have helped you accelerate your coding workflow, please consider supporting the developer.
+
+**Wallet Address:** 
+`6h7QjzGoaKvUAGtqoqEV12WMwTzGsUm3KZ7t23ngG5WV`
+
+**Scan to Support:**
+
+![Wallet QR](./wallet_qr.jpeg)
+
+*Your support helps keep these tools updated and allows for further research into AI-driven development.*
+
